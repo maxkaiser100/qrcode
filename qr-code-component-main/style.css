@@ -1,0 +1,37 @@
+html {
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+}
+
+
+p {
+    font-weight: lighter;
+    padding: 0 20px;
+}
+
+h2 {
+    font-weight: 500;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+.whiteBox {
+    display: flex;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    flex-direction: column;
+    width: 275px;
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+}
+
+.whiteBox img {
+border-radius: 10px;
+width: 100%;
+}
