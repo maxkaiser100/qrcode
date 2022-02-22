@@ -1,3 +1,5 @@
+
+
 html {
     font-size: 15px;
     background-color: hsl(212, 45%, 89%);
@@ -14,11 +16,12 @@ h2 {
     font-weight: 500;
 }
 main {
+    max-height: 100vh;
     display: flex;
     width: 100%;
     justify-content: center;
     align-items: center;
-    height: 700px;
+   
 
 }
 
